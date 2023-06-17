@@ -25,7 +25,8 @@ Images:-
 ![p2](https://github.com/Amarnath-Rao/Voucherize/assets/96937608/fd93a751-0f59-4710-9b3c-8a9ece70709f)
 ![Screenshot 2023-06-17 120027](https://github.com/Amarnath-Rao/Voucherize/assets/96937608/3b413062-4ab5-45ff-b31b-c3099ff8a17c)
 ![WhatsApp Image 2023-06-16 at 15 09 06](https://github.com/Amarnath-Rao/Voucherize/assets/96937608/485516d7-0076-4e02-93ff-59ba28cafed6)
-![df](https://github.com/Amarnath-Rao/Voucherize/assets/96937608/acc8dd73-fb31-403a-9765-19cb3557bc85)
+![image](https://github.com/Amarnath-Rao/Voucherize/assets/96937608/5713d0ba-576c-4909-b3a9-d43752bc3d86)
+
 
 
 
